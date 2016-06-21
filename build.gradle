@@ -1,0 +1,15 @@
+apply from: 'dependencies.gradle'
+
+allprojects {
+  apply plugin: 'java'
+
+  repositories {
+    jcenter()
+  }
+
+  configurations {
+    compile.transitive = false
+    testCompile.transitive = false
+  }
+}
+

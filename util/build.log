@@ -1,0 +1,12 @@
+:util:clean
+:common:compileJava UP-TO-DATE
+:common:processResources UP-TO-DATE
+:common:classes UP-TO-DATE
+:common:jar UP-TO-DATE
+:util:compileJava
+
+BUILD SUCCESSFUL
+
+Total time: 3.188 secs
+
+This build could be faster, please consider using the Gradle Daemon: https://docs.gradle.org/2.14/userguide/gradle_daemon.html

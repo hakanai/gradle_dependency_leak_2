@@ -1,0 +1,7 @@
+ext.libraries = [
+  icu4j: [
+    'com.ibm.icu:icu4j:54.1.1',
+  ],
+]
+
+

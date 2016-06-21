@@ -1,0 +1,6 @@
+apply from: '../dependencies.gradle'
+
+dependencies {
+  compile libraries.icu4j
+}
+
