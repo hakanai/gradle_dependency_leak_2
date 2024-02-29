@@ -2,7 +2,7 @@ repo_name: hakanai/gradle_dependency_leak_2
 report_id: 3b099c47bd50e08b468d414ab4a394de
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-11T01:30:54+00:00'
+timestamp: '2024-02-29T19:59:51+00:00'
 requested_by: hakanai
 provider: github
 branch: main
